@@ -6,7 +6,7 @@ baseurl: ''
 profilepic: '/images/tzuehlke.jpg'
 bkimage: '/images/bk1.jpg'
 google_analytics: UA-XXXXXX-X
-font_awesome: 'XXXXXXXXXX.js'
+font_awesome: 'f6ae1a008b.js'
 
 author:
   name: 'Muhammad Abdullah'
