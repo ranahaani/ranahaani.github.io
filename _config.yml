@@ -5,14 +5,14 @@ url: 'https://github.com/ranahaani'
 baseurl: ''
 profilepic: '/images/tzuehlke.jpg'
 bkimage: '/images/bk1.jpg'
-google_analytics: UA-XXXXXX-X
+google_analytics: UA-108070026-1
 font_awesome: 'f6ae1a008b.js'
 
 author:
   name: 'Muhammad Abdullah'
   email: ranahaani@gmail.com
   twitter_username: ranahaani
-  facebook_username: painhaani
+  #facebook_username: ranahaanii
   github_username:  ranahaani
   linkedin_username:  ranahaani
   #meetup_name: Azure-Meetup-Rostock-MV
